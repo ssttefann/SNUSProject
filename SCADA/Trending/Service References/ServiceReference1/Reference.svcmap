@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9e4de593-86ed-4076-98c4-378d9e5aad00" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2388/Trending.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Trending.xsd" MetadataType="Schema" ID="686a92f0-152b-4e98-a0a5-a21595d58839" SourceId="1" SourceUrl="http://localhost:2388/Trending.svc?xsd=xsd0" />
+    <MetadataFile FileName="Trending.wsdl" MetadataType="Wsdl" ID="5f499cd7-69f1-44b7-9cf6-6929d6d0ccf4" SourceId="1" SourceUrl="http://localhost:2388/Trending.svc?wsdl" />
+    <MetadataFile FileName="Trending.disco" MetadataType="Disco" ID="9b1647dc-2ca7-493e-ab4f-5df942f15f6b" SourceId="1" SourceUrl="http://localhost:2388/Trending.svc?disco" />
+    <MetadataFile FileName="Trending1.xsd" MetadataType="Schema" ID="45d2a023-fabf-478e-9d43-5766ced4a81c" SourceId="1" SourceUrl="http://localhost:2388/Trending.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

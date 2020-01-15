@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Trending\bin\Debug\Trending.exe.config
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Trending\bin\Debug\Trending.exe
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Trending\bin\Debug\Trending.pdb
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Trending\obj\Debug\Trending.exe
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Trending\obj\Debug\Trending.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Core\bin\Core.dll.config
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Core\bin\Core.dll
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Core\bin\Core.pdb
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Core\obj\Debug\Core.dll
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\Core\obj\Debug\Core.pdb

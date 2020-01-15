@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2d8d55df-0448-4793-a457-4b9e8278b16e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2388/DatabaseManager.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DatabaseManager.xsd" MetadataType="Schema" ID="8915fb83-01d7-4372-a604-844d1c0b5fe4" SourceId="1" SourceUrl="http://localhost:2388/DatabaseManager.svc?xsd=xsd1" />
+    <MetadataFile FileName="DatabaseManager.disco" MetadataType="Disco" ID="1465313a-ad4f-434c-8d89-80227e57d628" SourceId="1" SourceUrl="http://localhost:2388/DatabaseManager.svc?disco" />
+    <MetadataFile FileName="DatabaseManager1.xsd" MetadataType="Schema" ID="22bbcfa9-d258-4887-9e39-376c7bbf00ef" SourceId="1" SourceUrl="http://localhost:2388/DatabaseManager.svc?xsd=xsd0" />
+    <MetadataFile FileName="DatabaseManager.wsdl" MetadataType="Wsdl" ID="0aa1c13e-fe2d-43f2-a446-5d3c15adf79c" SourceId="1" SourceUrl="http://localhost:2388/DatabaseManager.svc?wsdl" />
+    <MetadataFile FileName="DatabaseManager2.xsd" MetadataType="Schema" ID="1ddc2e45-d5c5-442e-86de-17b426f4f8b3" SourceId="1" SourceUrl="http://localhost:2388/DatabaseManager.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Stefan\Desktop\Treca Godina\SNUS\Vezbe\PPPPV1\SCADA\DatabaseManager\obj\Debug\DatabaseManager.pdb
